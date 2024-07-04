@@ -1,0 +1,8 @@
+{
+  "name" : "Name",
+  "description" : "Description",
+  "elements" : [ {
+    "tag" : "Person",
+    "shape" : "Person"
+  } ]
+}
